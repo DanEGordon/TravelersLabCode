@@ -24,5 +24,5 @@ system wasn't perfect, but served for what the head of the lab wanted.
 Works on a folder where each Cely letter is an individual text file
 The results of the program are in the results document
 
-Planns were made to expand the program to other, larger ketter coolections, such as the
+Plans were made to expand the program to other, larger ketter coolections, such as the
 Paston collection, but I personally didn't work on that project.
