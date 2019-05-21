@@ -1,0 +1,1465 @@
+
+1
+-----
+Addressed: To the worshipfull George Cely merchaunt of the Stapell at Callez hit.
+None
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xiiij day of May., 
+
+2
+-----
+Letter sent in the year lxxv
+Sent by The viij day of August
+None
+the term haste is referenced 0 time(s)
+the names of months appear 8 time(s), with 5 different month(s) mentioned
+The dates mentioned are The viij day of August, the viij day of May, the viij day of Feverell, the viij day of May, the viij day of Feverell, the xvj day of Auguste, the first day of June, the first day of Marche, 
+
+3
+-----
+Letter sent in the year lxxvj
+Addressed: A George Cely.
+None
+the term haste is referenced 0 time(s)
+the names of months appear 3 time(s), with 2 different month(s) mentioned
+The dates mentioned are the xiij day of Aprell, the xxiij day of June, the xiij day of Aprell, 
+
+4
+-----
+Letter sent in the year Ryght
+Addressed: Unto George Cely marchant of the stapall at calles thys letter be delyverde.
+Wreten at London the xxviij day of September Anno lxxvj Be youre owne Wylliam Maryon.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xxviij day of September, 
+understand appears 2 times in the following contexts: ['plesse yow ye schall understond that y have schypped', 'lxli. Syr y schall understond that Thomas Keston hat']
+
+5
+-----
+Letter sent in the year Mliiijclxxvij
+Sent by Rychard Cely the elder
+Addressed: To Jorge Cely at Caleys be thys lecter delyverd.
+Wryte at London the xxiij day of May in haste.
+the term haste is referenced 1 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xxiij day of May, 
+understand appears 2 times in the following contexts: ['the wyll and I understand there com no marchauntys', 'com thereto for I understand wyll there be dyvers']
+
+6
+-----whorshypfull
+Letter sent in the year Mliiijclxxviij
+Addressed: Unto my ryght  Fadyr Rychard Cely merchant of the Stapell off Calles Dewellyng at London yn Martte Lane so it come.
+None
+the term haste is referenced 0 time(s)
+the names of months appear 2 time(s), with 1 different month(s) mentioned
+The dates mentioned are the forst day of May, 
+Recieve statement: to undyrstone y resseywyd an lettyr from yow wrytt at London the forst day of May
+tidings appears 1 times in the following contexts: ['fayr whedyr and good tydynges ze may dayly send']
+
+7
+-----
+Letter sent in the year Mliiijclxxviij
+Sent by Rychard Cely the Elder
+Addressed: To George Cely at Caleys be thys delyver.
+wryt at London the xvij of Jun in grete haste.
+the term haste is referenced 1 time(s)
+the names of months appear 2 time(s), with 1 different month(s) mentioned
+The dates mentioned are the ix day of Jun, 
+Recieve statement: and I have resayvyd a lecter from the wrete at Bregys the ix day of Jun
+understand appears 4 times in the following contexts: ['lecter I have wyll understand every ponte and I', 'Granger bryngar and I understand well the zeyng of', 'good and also I understand be Thomas Granger the', 'meche but I wyll understand more of that mater']
+
+8
+-----
+Letter sent in the year Mliiijcxxviij
+Sent by Rychard Cely the Elder
+Addressed: To Jorge Cely at Caleys be thys lecter delyverd.
+Wryte at London the xx day of Jule in haste.
+the term haste is referenced 2 time(s)
+the names of months appear 2 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xiij day of Jule, the xx day of Jule, 
+understand appears 2 times in the following contexts: ['fellys as ye schall understand be thy broder Rychard', 'my[nd] and lete me understande wat redy mony I']
+
+9
+-----
+Letter sent in the year Mliiijcxxviij
+Sent by Rychard Cely the Elder
+Addressed: To Jorge Cely at Caleys thys lecter delyverd.
+Wryt in London the xvij day of Auguste in haste.
+the term haste is referenced 1 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xvij day of Auguste, 
+
+10
+-----
+Letter sent in the year Mliiijcxxvijj
+Sent by Rychard Cely the Elder
+Addressed: To Jorge Cely at Caleys be thys lecter delyverd.
+Wryt at London the xxv day of Auguste in grete haste.
+the term haste is referenced 1 time(s)
+the names of months appear 2 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xiij day of Auguste, the xxv day of Auguste, 
+Recieve statement: and I have resayvyd from the a lecter wryte at Caleys the xiij day of Auguste
+understand appears 7 times in the following contexts: ['lecter I have wyll understande and ye have solde', 'the dayys I clerely understande and also I understande', 'extract and also I understande ye have solde to', 'argent & dayys I understande wyll for the weche', 'am wyll plesyd I understand ye have resayvyd my', 'paye yt for I understand wyll we schall paye', 'no thowe therefore I understonde that mater before your']
+
+11
+-----
+Letter sent in the year Mliiijclxxviij
+None
+the term haste is referenced 0 time(s)
+the names of months appear 5 time(s), with 5 different month(s) mentioned
+The dates mentioned are the xxiiij day of November, the laste day of May, the laste day of Septembyr, the xxiiij day of Jenever, the ij day of Apperell, 
+
+12
+-----
+Letter sent in the year Mliiijcxxviij
+Sent by Rychard Cely the Younger
+Addressed: A George Cely at Bregys be thys dd.
+wryt at Callez the Thursda after youer departyng I pray ze recomende me to aull good frndes per Rychard Cely.
+the term haste is referenced 0 time(s)
+the names of months appear 0 time(s), with 0 different month(s) mentioned
+
+13
+-----
+Letter sent in the year Mliiijclxxviij
+None
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the iiijth day of Fewerell, 
+
+14
+-----
+None
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xiiijth day of Marche, 
+
+15
+-----
+Letter sent in the year Mliiijclxxix
+Sent by ﻿Rychard Cely, the younger
+Addressed: % my welbelovyd brother George Cely merchand of the stapell at Callez at oste wt Bornellz whedow.
+Wryt at London on Good Fryday and I go to my lord on Ester ewe Syr I pray ze recomende me to owr ostes and aull good frendes and grete well Bawsler.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xxvij day of Marche, 
+Recieve statement: that I have ressayoyd a letter from you wryttyn at Callez the xxvij day of Marche
+understand appears 1 times in the following contexts: ['may stond sewyr I wnderstond be your wrytyng that']
+
+16
+-----
+Letter sent in the year Mliiijcxxxix
+Sent by Rychard Cely the Elder
+Addressed: To Jorge Cely at Caleys be thys delyver.
+Wrete at London the last day of Apperell in grete haste.
+the term haste is referenced 1 time(s)
+the names of months appear 2 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xix day of Apperell, the last day of Apperell, 
+Recieve statement: and I have resayvyd a lecter from you wryt at Caleys the xix day of Apperell
+understand appears 3 times in the following contexts: ['weche I have wyll understande and ye have hadde', 'more for I cannot understande that ys not good', 'men doe ye schall understande at the marte weche']
+
+17
+-----
+Letter sent in the year Mliiijclxxix
+Sent by Rychard Cely the elder
+Addressed: To Jorge Cely at Caleys be thys delyver.
+wryt at London the xiij day of May in haste.
+the term haste is referenced 1 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xiij day of May, 
+
+18
+-----
+Letter sent in the year Miiijclxxix
+Sent by Rychard Cely the elder
+Addressed: To George Cely at Caleys thys lecter delyver.
+Wryt at London the xxj day of May at wrytyng of thys be in goode elle at Brytys3 Plase in Eseykys.
+the term haste is referenced 0 time(s)
+the names of months appear 4 time(s), with 3 different month(s) mentioned
+The dates mentioned are the xxj day of May, 
+understand appears 1 times in the following contexts: ['wyll and ye schall understand I have resayvyd be']
+
+19
+-----
+Letter sent in the year Mliiijcxxix
+Sent by ﻿Rychard Cely the elder
+Addressed: To George Cely at Caleys be thys lecter delyverd.
+Wryte at London the xiiij day of Jun in grete haste.
+the term haste is referenced 1 time(s)
+the names of months appear 3 time(s), with 2 different month(s) mentioned
+The dates mentioned are the xxxj day of May, the xiiij day of Jun, the xiiij day of Jun, 
+Recieve statement: and I have resayvyd a lecter from you ryt at Caleys the xxxj day of May
+understand appears 1 times in the following contexts: ['weche I have wyll understande and also the same']
+
+20
+-----
+Letter sent in the year M
+Addressed: To the right worshipffull Jorge Cely merchant of the stapall so itt dd.
+None
+the term haste is referenced 0 time(s)
+the names of months appear 2 time(s), with 2 different month(s) mentioned
+The dates mentioned are Cales xixth day of Juylly., 
+
+21
+-----
+Letter sent in the year Mliiijcxxix
+Sent by Rychard Cely the elder
+Addressed: To Jorge Cely at Caleys or Bergys thys lecter delyverd.
+None
+the term haste is referenced 1 time(s)
+the names of months appear 4 time(s), with 3 different month(s) mentioned
+The dates mentioned are the laste day of October, the xxiij day of Octobor, the vj day of November, 
+Recieve statement: October I have resayvyd a lecter from you wrete at Bregys the xxiij day of Octobor
+understand appears 2 times in the following contexts: ['youre recureng for I understande be John Rose ze', 'lecter I have wyll understande and I tryste to']
+
+22
+-----
+Letter sent in the year Mliiijcxxix
+Addressed: A my welbelouyd brother George Cely merchant of the estapell of Callz beyng at Bergye.
+Wryttyn at London the viij day of Novembyr.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the viij day of Novembyr., 
+
+23
+-----
+Sent by Rychard Cely the elder Mliiijcxxix
+Addressed: To Jorge Cely at Bregys by thys lecter celyverd.
+Wryt at London the xj day of November in grete haste.
+the term haste is referenced 1 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xj day of November, 
+
+24
+-----
+Letter sent in the year Mliiijcxxix
+Sent by Richard Cely the younger
+Addressed: Unto my ryught whelbelovyd brother George Cely merchantt of the estaple of Callez be thys dd.
+Wrettyn at London the ix day of Desembyr.
+the term haste is referenced 0 time(s)
+the names of months appear 2 time(s), with 1 different month(s) mentioned
+The dates mentioned are the ix day of Desembyr., 
+
+25
+-----
+Letter sent in the year Mliiijclxxix
+Sent by Rychard Cely the elder
+Addressed: To Jorge Cely at Caleys or Bregys be thys lecter delyverd.
+Wryt at London the xj day of Dessember in hast.
+the term haste is referenced 1 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xxj day of November, the vj day of Dessember, the xj day of Dessember, 
+Recieve statement: be I have resayvyd a lecter from you wryt at Bregys the xxj day of November
+understand appears 2 times in the following contexts: ['lecter I have wyll understande the weche was to', 'sayd plegys but I understand ye delyveryd a byll']
+
+26
+-----
+Letter sent in the year Mliiijciiijxx
+Sent by Rychard Cely the younger
+Addressed: Unto my ryughte whellbelouyd brother George Cely merchant of the estapell beynge at Callez.
+wryttyn at London the vij day of Apryll.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the vij day of Apryll., 
+understand appears 1 times in the following contexts: ['beynge heyr Syr whe undyrstond be a letter frome']
+
+27
+-----
+Letter sent in the year Mliiijciiijxx
+Sent by Rychard Cely the younger
+Wryttyn at London the xxx day of Aprell.
+the term haste is referenced 0 time(s)
+the names of months appear 2 time(s), with 2 different month(s) mentioned
+The dates mentioned are te fyrste day of May, the xxx day of Aprell., 
+
+28
+-----
+Letter sent in the year Mliiijciiijxx
+Sent by Rychard Cely the elder
+Addressed: To Jorge Cely at Caleys be thys lecter delyverd.
+the term haste is referenced 0 time(s)
+the names of months appear 0 time(s), with 0 different month(s) mentioned
+understand appears 4 times in the following contexts: ['hom in savete I understand ye be at Bregys', 'good were for I understand sche wyll falle of', 'of herys and I understande Sir John the pryste', 'preve and let me understand ys entent and after']
+
+29
+-----
+Sent by Rychard Cely the younger Mliiijciiijxx Ryught interly whellbelovyd and my syngerler good brother
+Wryttyn at London the xv day of May.
+the term haste is referenced 1 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xv day of May., 
+
+30
+-----
+Letter sent in the year Mliiijcxxx[sic]
+Sent by Rychard Cely the elder
+Wryt at London the xxij day of May.
+the term haste is referenced 0 time(s)
+the names of months appear 2 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xiij day of May, the xxij day of May., 
+Recieve statement: and I have resayvyd a letter from you wryte at Calleys the xiij day of May
+understand appears 1 times in the following contexts: ['letter I have wyll understande of youre beyng at']
+
+31
+-----
+Sent by Rychard Cely the elder Mliiijciiijxx
+Addressed: To Jorge Cely at Caleys or the mart thys lecter delyverd.
+Wryt at London the ij day of June in gret haste.
+the term haste is referenced 2 time(s)
+the names of months appear 4 time(s), with 2 different month(s) mentioned
+The dates mentioned are the xxix day of May, the laste day of May, depertyd ij day of Jun, the ij day of June, 
+Recieve statement: and I have resayvyd a lecter from you wryt at Celays the xxix day of May
+understand appears 1 times in the following contexts: ['weche I have wyll understand and that ze have']
+
+32
+-----
+Letter sent in the year Mliiijciiijxx
+Sent by Rychard Cely the younger
+Addressed: Wnto my ryught whelbelovyd brother George Cely merchand of the estapell at Calleys or at the marte be thys dellywydd.
+None
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the sekund day of June., 
+Recieve statement: and I have resayvyd ij lettyrs from you whon of howr brother Robarde and ther in whos of
+understand appears 1 times in the following contexts: ['plese hyt yow to wndyrstonde at the maky[ng] of']
+
+33
+-----
+Letter sent in the year Mliiijciiijxx
+Sent by Rychard Cely the younger
+Addressed: Un to my Ruyght Whelbelovyd brother George Cely merchand of the estapell at Celleys be thys dd.
+Wryttyn at London the last day of Juyn.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the last day of Juyn., 
+Recieve statement: thys monthe I resavyd ij lettyres frome you whon to houre father another to my selve the qweche
+understand appears 1 times in the following contexts: ['thay be good I wnderstonde be your wrytyng that']
+
+34
+-----
+Letter sent in the year Mliiijciiijxx
+Sent by Rychard Cely the younger
+Addressed: Wnto my ryught whelbelovyd brother George Cely.
+Wryttyn at Bryttes the v day of Juyll.
+the term haste is referenced 1 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the v day of Juyll., 
+understand appears 2 times in the following contexts: ['for thys cauys he wndyrstode whell that the woll', 'forsayd Syr hour father wndyrstones of owr brother Robardes']
+
+35
+-----
+Letter sent in the year Ml>iiijciiijxx
+None
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xj day of Jowle, the xjth day of Juyll, 
+
+36
+-----
+Letter sent in the year Mliiijciiijxx
+Sent by Rychard Cely the elder
+Addressed: To Jorge Cely at Caleys thys letter delyverd.
+Wryt at London the fryst day of September in haste.
+the term haste is referenced 1 time(s)
+the names of months appear 2 time(s), with 2 different month(s) mentioned
+The dates mentioned are the xxjj day of August, the fryst day of September, 
+Recieve statement: and I have resayvyd a letter from you wryt at Caleys the xxjj day of August
+understand appears 2 times in the following contexts: ['weche I have wyll understand and ze have solde', 'wyll plesyd but I understand and ze can sele']
+
+37
+-----
+Letter sent in the year Mliiijciiijxx
+Sent by Rychard Cely the younger
+Addressed: A my whelbelovyd brother George Cely at Calles so hit dd.
+Wryt at Dowyr the sekunde day of Septembyr.
+the term haste is referenced 0 time(s)
+the names of months appear 2 time(s), with 1 different month(s) mentioned
+The dates mentioned are the iij day of Septembyr, the sekunde day of Septembyr., 
+
+38
+-----
+Sent by Right wurshipfull and welbelovyd Cosen
+Addressed: To my Cosen Jorge Cely merchante off the stapull att Caleis be this delyverd.
+None
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the vjth day of September, 
+understand appears 1 times in the following contexts: ['also sir ye shall understande that my sistur yowre']
+
+39
+-----
+Sent by Right wurshipfull Sir and welbelovyd Cosyn
+Addressed: To my Cosen Jorge Cely at Anwarp marte be this letter delyverd.
+None
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+
+40
+-----
+Letter sent in the year lxxx
+Addressed: To my welbelovyd brother George Cely marchand of the staple of Calles.
+wrette at London the vj day of Septembe wt grette payne.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the vj day of Septembe, 
+understand appears 1 times in the following contexts: ['werof I saposse yow wnderstonde ryght well and I']
+
+41
+-----
+Sent by Richard Cely the elder
+Addressed: To Jorge Cely at Caleys delyverd.
+Wryte at London xxv day of September in haste.
+the term haste is referenced 1 time(s)
+the names of months appear 2 time(s), with 2 different month(s) mentioned
+The dates mentioned are London xxv day of September, 
+understand appears 3 times in the following contexts: ['the neste schepyng I understande be youre lecter that', 'Marche I wolde fayne understande the packyng of that', 'men that I may understande my delyng also ye']
+
+42
+-----
+Letter sent in the year Mliiijciiijxx
+Sent by Rychard Cely the elder
+Addressed: To Jorge Cely at Calys thys lecter delyverd.
+Wryt at London the xiij day of Octobor in grete haste.
+the term haste is referenced 1 time(s)
+the names of months appear 2 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xiij day of Octobor, the xiij day of Octobor, 
+understand appears 1 times in the following contexts: ['you wat tyme I understande ze be at Calleys']
+
+43
+-----
+Letter sent in the year Mliiijciiijxx
+Sent by Rychard Cely the elder
+Addressed: To Jorge Cely at Celys be thys lecter delyverd.
+Wryt at Brytys the xxix day of Octobor in haste.
+the term haste is referenced 2 time(s)
+the names of months appear 3 time(s), with 2 different month(s) mentioned
+The dates mentioned are the xvj day of Octobor, the xxix day of Octobor, 
+Recieve statement: and I have resayvyd a lecter from yow at Caleys the xvj day of Octobor
+understand appears 5 times in the following contexts: ['weche lecter I have understand wyll and that ye', 'in hand as I understand the pyse and summa', 'and summa argent I understand be the byll I', 'be the byll I understand be Wylliam Cely ys', 'marchant of Berelay1 I understand be youre wrytyng yt']
+
+44
+-----
+Letter sent in the year Mliiijciiijxx
+Sent by Rychard Cely the Younger
+Addressed: Unto my ryught whelbelovyd brother George Cely marchant of the estapell at Calles.
+Wryt at London the xv day of Novembyr.
+the term haste is referenced 0 time(s)
+the names of months appear 2 time(s), with 2 different month(s) mentioned
+The dates mentioned are the xv day of Novembyr., 
+
+45
+-----
+Letter sent in the year Mliiijciiijxx
+Addressed: Unto my ryght whoschypfull fadyr Rychard Cely merchant of the Stapell of Callez Dwelling at London in Marte Lane do it dd:
+Wrettyn at Calles the xvjthday of Novembyr Anno iiijxx.
+the term haste is referenced 1 time(s)
+the names of months appear 4 time(s), with 3 different month(s) mentioned
+The dates mentioned are the xiiij day of Septembyr, the xiiij day of Novembyr, 
+Recieve statement: that I hawe resseywyd an letter from yow beryng date at London at London [sic] the xiij Octobyr
+understand appears 7 times in the following contexts: ['plesyth ytt yow to undyrstond that I hawe resseywyd', 'wheche y do whell undyrstond and I hawe resseywyd', 'yowr sayd letter y undyrstond them ryght whell and', 'as for Robyn ye undyrstond be this how whell', 'at Callez and y understond Lombardys has bowght ytt', 'woll that y myght undyrstond be wryttyng wher the', 'my brodyr Rychard may undyrtsond that of my lords']
+
+46
+-----
+Letter sent in the year Mliiijciiijxx
+Sent by Rychard Cely the younger
+Addressed: Unto my ryght whell belowyd brother George Cely merchant of the estaple at Calles be thys dd.
+Wryttyn at London on Sente Clementes zewyn.2 per yowre brother Rechard Cely.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xij day of Nowembyr, 
+Recieve statement: Sir I have resasayvd a letter from yow wrytt at Calleys the xij day of Nowembyr
+understand appears 2 times in the following contexts: ['plessythe hyt you to wnderstond at the makyng of', 'of Nowembyr wherby I wndyrstone your greve gwerof my']
+
+47
+-----
+Letter sent in the year Mliiijciiijxx
+Addressed: Unto my ryght worshypfull Fadyr Rychard Cely merchaunt of the Stapull of Calles being at London in Marte Lane so it dd.
+None
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xxiiij day of Novembyr, 
+tidings appears 1 times in the following contexts: ['Candyllmasse as of any tydynges her y con cone']
+understand appears 1 times in the following contexts: ['plesyth ytt yow to undyrstond that y hawe sawllde']
+
+48
+-----
+Addressed: This be delyverd to mi honorable maister Sir Tomas Aymew Knyght and alderman of London Dwelling in Mylk Stret.
+None
+the term haste is referenced 1 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+
+49
+-----
+Letter sent in the year Mliiijciiijxx
+Sent by Rychard Cely the Younger
+Addressed: Wnto my whelbelovyd brother George Cely or Thomas Grayngear at Calleys be thys dd.
+Wryt at London the xij day of Decembyr.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xij day of Decembyr., 
+understand appears 1 times in the following contexts: ['yow plesythe yow to wndyrstone that I have schpyd']
+
+50
+-----
+Letter sent in the year Mliiijciiijxx
+Addressed: Wnto my brodyr George Cely merchand of the stapell of Calleys be thys delyvrd at Calleys or at Brygys in haste.
+whryt at London the xxiij day of Genewer.
+the term haste is referenced 1 time(s)
+the names of months appear 0 time(s), with 0 different month(s) mentioned
+The dates mentioned are the xxiiij day of Genever, the xxiij day of Genewer., 
+Recieve statement: Syr I have resavyd a letter frowm yow wryttyn at Calles wpon Sent Stevyns day the qweche
+tidings appears 1 times in the following contexts: ['whenysyans3 and florantynys of tydynges of the Rodys4 and']
+
+51
+-----
+Letter sent in the year Mliiijciiijxx
+None
+the term haste is referenced 0 time(s)
+the names of months appear 0 time(s), with 0 different month(s) mentioned
+The dates mentioned are the xxiiij day of Jenyver, 
+
+52
+-----
+Letter sent in the year Mliiijciiijxx
+Addressed: To my worshyppfull master George Cely marchaunte off stapull off Calez being at Breges at the stape ys clawe soo hit dd:
+Wrytten at Caleys the xiij day of Maye per yowre servaunte Wylliam Cely.
+the term haste is referenced 0 time(s)
+the names of months appear 3 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xij day of Maye, the xiij day of Maye, 
+tidings appears 1 times in the following contexts: ['lorde &c. Syr odder tydynges hawe we non but']
+understand appears 2 times in the following contexts: ['hit yowre masterschypp to understonde that I hawe receyved', 'hawe redd and well understonde all theynges theryn and']
+
+53
+-----
+Letter sent in the year Mliiijciiijxxj
+Sent by Richard Cely the younger
+Addressed: Wnto my riught whelbelovyd brother George Cely merchand of the estapell of Callez be thys dd.
+None
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the iiijthe day of Joyn., 
+Recieve statement: howr father has ressayvyd a letter frome you wherby he undyrstond of the salle ij sarplers and a
+understand appears 1 times in the following contexts: ['frome you wherby he undyrstond of the salle ij']
+
+54
+-----
+Letter sent in the year Mliiijciiijxxj
+Sent by Rychard Cely the younger
+Addressed: Unto my brother George Cely marchand of the estapell at Calles or the marte be thys dd.
+Wryte at London the xxiiij day of Juyn.
+the term haste is referenced 0 time(s)
+the names of months appear 2 time(s), with 2 different month(s) mentioned
+The dates mentioned are the xv day of Juyll, the xxiiij day of Juyn., 
+
+55
+-----
+Sent by Rychard Cely the younger
+Addressed: Thys letter be delyverd to Goos sarvant wt George Cely merchand of the staple at Callez.
+None
+the term haste is referenced 1 time(s)
+the names of months appear 0 time(s), with 0 different month(s) mentioned
+
+56
+-----
+Letter sent in the year Mliiijciiijxxj
+Sent by Rychard Cely the younger
+Addressed: Wnto my whel belovyd brother George Cely merchant of the estapell at Callez.
+Wryttyn at London xxj day of July.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are London xxj day of July., 
+
+57
+-----
+Letter sent in the year Mliiijciiijxxj
+Addressed: Wnto my whelbelovyd brother George Cely merchant of the estaple beyng at Calles or Bregys be thys letter or box dd.
+Wryt at London on Sent Tanys day.3 per yowr brother Rychard Cely.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the iij day of Augwste, 
+
+58
+-----
+Letter sent in the year Mliiijciiijxxj
+Sent by Rychard Cely the elder
+Addressed: (by Richard Cely the younger): Unto my riught whelbelovyd brother George Cely merchand of the estaple at Caleys or Bregys be thys dd.
+Whrytten at London the laste day of Jully.
+the term haste is referenced 0 time(s)
+the names of months appear 2 time(s), with 2 different month(s) mentioned
+The dates mentioned are the xxv day of Jule, the iij day of Auguste, the laste day of Jully., 
+Recieve statement: and I have resayvyd a lecter from you wryte at Caleys the xxv day of Jule
+understand appears 1 times in the following contexts: ['weche I have wyll understand and that ye have']
+
+59
+-----
+Addressed: To my worshipfull bedfelow George Sele this be delyvered.
+None
+the term haste is referenced 1 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the iiijth day of August., 
+
+60
+-----
+Letter sent in the year Mliiijciiijxxj
+Addressed: Unto my ryght whorschypfull Fader Rychard Cely merchant of the stapull of Callez at London in Marte Lane so it dd.
+None
+the term haste is referenced 0 time(s)
+the names of months appear 0 time(s), with 0 different month(s) mentioned
+The dates mentioned are the v day of Augost., 
+understand appears 2 times in the following contexts: ['plesyth ytt you to understond that it ys now', 'plesythe ytt you to undyrstond that yowr wholl ys']
+
+61
+-----
+Sent by Right worchipfull Syr and Broder after all dew recommendacyon hayd
+Addressed: Unto my interly beluffyd brother Jorge Cely merchaunt at the staple of Calles.
+None
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xxij day of September., 
+
+62
+-----
+Letter sent in the year Mliiijciiijxxj
+Addressed: Unto Gese sarwhant wt George Cely marchand of the estapell at Calleys.
+Whryt at London the xvj of Octobur.
+the term haste is referenced 1 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+
+63
+-----
+Addressed: To George Cely merchaunte of the stapell of Calys.
+Wrytte at London the xxvj day of October.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xxvj day of October., 
+
+64
+-----
+Letter sent in the year Worshipfull
+Addressed: To is worshypfull Coyssyn Jorge Sellay this leter be deleverde at Callez.
+None
+the term haste is referenced 0 time(s)
+the names of months appear 2 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xv day of Octobre, the xxvij day of Octobre, 
+
+65
+-----
+Letter sent in the year Ryght
+Addressed: Unto George Cely marchant of the stapall at Callez thes letter be delyverde.
+Wreten at London the xxviij day of October Anno Jhesu Mliiijciiijxxj.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xxviij day of October, 
+
+66
+-----
+Letter sent in the year Mliiijciiijxxj
+Addressed: To George Cely merchaunte of the stapell of Caleys be thys dd.
+Wrytten at London the laste day of October.
+the term haste is referenced 0 time(s)
+the names of months appear 2 time(s), with 1 different month(s) mentioned
+The dates mentioned are the laste day of October., 
+understand appears 1 times in the following contexts: ['unto yow lettyng yow understonde that my master hath']
+
+67
+-----
+Letter sent in the year Mliiijciiijxxj
+Addressed: To George Cely merchaunte of the staple of Caleys be this letter deluverd.
+Written at London the second day of November.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the second day of November., 
+
+68
+-----
+Letter sent in the year iiijciiijxxj
+Sent by Rychard Cely the younger
+Addressed: Unto my whell belovyd brother George Cely merchant of the stapell be at Caleys so dd.
+wryte at Calleys wherby I wndyrstone ze have pwrwayd xli in carolus grottes I pray yow send them at the next passayg for I pwrpos schorttlely into Cottysosllde and I have informyd my godfather that ze have made for hym wt Wylliam Browell xxxjli and I thanke God that He pwt hyt in yowr mynd to have the c xxxli howt of the whystelers2 handys when I whos laste wt yow at Bregys Syr hyt whosso that when Whykyng3 whos deyd and another whos chossyd howr father whos sor kawlyd apon and byt at Chary4 whos bettyr knowyn howre father hade beyn scherufe &c howr father wyll that ze by vjc stykes more canvas at thys marte and I wndyrstone that ze have sowlde yowr greyght gray hors and I am ryught glade therof for ij ys as good as xx I wndyrstonde that ze have fayre hawke I am ryught glade of hyr for I trwste God sche schall make yow and me ryught greyght sporte zefe I whor sewr at what passayge ze whollde send her I whowlde fett hyr at Dowyr and kepe hyr tyll ze cwm a greyght inforttewin ys fawlyn on yowr beche for sche had xiiij fayr whelpys and aftyr that sche hade whelpyd sche whelde byt newyr hett mette and so sche ys deyd and aull her whelpys byt I tryste to pwrwhay agayn yowr comyng as fayr and as good to plesse that genttyll man I wndyrstond ze and whe schaull make mery whethyr Brandon wyll or not be the grasse of God and as for Py ys as hartty as hevir I sau hym and in ressenabull good plyte and hole Wylliam Cely do ys partte whell in kepyng of hym and as for howr pensyon in fornyng whall ys in schaull be payde wythin thys iiij days Syr heyr aftyr aperythe howr father schypyng and schyps namys and mastyrs Item….
+the term haste is referenced 0 time(s)
+the names of months appear 0 time(s), with 0 different month(s) mentioned
+The dates mentioned are the v day of Nowembyr., 
+Recieve statement: Syr I have ressavid a letter frome yow wryte at Calleys wherby I wndyrstone ze have pwrwayd xli
+tidings appears 1 times in the following contexts: ['fayn heyr some good tydyngys of yowr matter that']
+understand appears 3 times in the following contexts: ['at Calleys wherby I wndyrstone ze have pwrwayd xli', 'thys marte and I wndyrstone that ze have sowlde', 'good as xx I wndyrstonde that ze have fayre']
+
+69
+-----
+Letter sent in the year Ryght
+Addressed: Unto George Cely merchant of the stapull at Calles thys letter be delvyerde.
+Wreten at London the viij day of November &c.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the viij day of November, 
+understand appears 1 times in the following contexts: ['Also Syr ye schall understond that Peleppe Seller ys']
+
+70
+-----
+Letter sent in the year Mliiijciiijxxj
+Sent by Rychard Cely the younger
+Addressed: Unto my ruight whelbelovyd brother George Cely merchand of the estapell beyng at Calleys so dd:
+None
+the term haste is referenced 0 time(s)
+the names of months appear 0 time(s), with 0 different month(s) mentioned
+The dates mentioned are the xxvj day of Nowhembyr., 
+tidings appears 1 times in the following contexts: ['wholschypys and as for tydynges I cane none byt']
+
+71
+-----
+Letter sent in the year Mliiijciiijxxj
+Sent by Rychard Cely the younger
+Addressed: Unto my whell belovyd brother George Cely marchand of the stapell at Calleys be thys delyiverd.
+Whryttyn at London the xxviij day of Nowhembyr.
+the term haste is referenced 0 time(s)
+the names of months appear 0 time(s), with 0 different month(s) mentioned
+The dates mentioned are the xxviij day of Nowhembyr., 
+Recieve statement: thys day I ressayvyd
+understand appears 1 times in the following contexts: ['matter &c Syr I undyrstond be yowr letter that']
+
+72
+-----
+Sent by Rychard Cely the younger Ruight whelbelovyd brother,
+Addressed: Unto my whellbelovyde brother George Cely marchand of the stapell at Calleys dd.
+wryt at London…day of Nowhembyr.
+the term haste is referenced 0 time(s)
+the names of months appear 0 time(s), with 0 different month(s) mentioned
+Recieve statement: same day I ressayvyd
+tidings appears 1 times in the following contexts: ['Geos and as for tydynges I can whrytte yow']
+understand appears 2 times in the following contexts: ['plese hyt yow to undyrstond thys same day I', 'me at Barwyke5 I undyrstond that my sayd loorde']
+
+73
+-----
+Letter sent in the year Worschipfull
+Addressed: To my interly beluffid brother George Cely merchaunt at the s[tappel o]f no beyng in London in Marke Lane be it don.
+None
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xix day of Jenever., 
+
+74
+-----
+Addressed: To my interly beluffid brother Jorge Cely merchant [of th]e staple of Calley no beyng [in Lon]don in Marte Layne.
+None
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xxviij day of Jennar., 
+
+75
+-----
+Addressed: To my rughte worshipfull mayster George Seely in Marke Layne in London thys byll be delyvered in goodly haste.
+None
+the term haste is referenced 1 time(s)
+the names of months appear 0 time(s), with 0 different month(s) mentioned
+Recieve statement: that I have reseyvyd ij letters that cam frome yow be the whiche wryttyng I onderstond my mayster
+
+76
+-----
+Letter sent in the year Mliiijciiijxxj
+Sent by Rychard Cely the younger
+Addressed: A my whelbelowyd brother George Cely merchand of the stapell beyng at Calles thys dd.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xxij day of Marche., 
+Recieve statement: that I hawhe resawyd ij lettyrs frome John Dawltton thay bothe derecttyd to yow wherby I wndyrstond he
+tidings appears 1 times in the following contexts: ['and send ws goode tydynges frome yow. Whryt at']
+
+77
+-----
+Letter sent in the year Mliiijciiijxxij
+Sent by Rychard Cely the younger
+Wrytte at London the xxix day of Marche.
+the term haste is referenced 0 time(s)
+the names of months appear 2 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xxviiij day of Marche, the xxix day of Marche., 
+Recieve statement: of Marche I ressawyd a letter frome yow whryt at Calles the Twysday after howr departtyng qwher by
+tidings appears 1 times in the following contexts: ['Calles hyt ys goode tydynges I pray God sende']
+
+78
+-----
+Letter sent in the year Mliiijciiijxxij
+Addressed: To my riught whelbelovyd brother George Cely merchant of the stapell beyng at Callez.
+whryt at Callys the xxvij day of Marche wherby I wndersto of yor salle wt many hother thynges and ze schawll resave of Wylliam Dawltom iij zeardes pewyke for howr brother John Dawltton and as for fellez I troste whe schawll have as good as any schawll com howt of Cottyswold for as ze whryte to me wholl wyll be skante I pwrpos to ryde into Cottysowld on Tewsday in the Ester wheke for to pake now whyll I am a whryttyng of thys letter Wylliam Mydwytters mane ys com to fet mony and I pwyrte my tyme wt hym as for tyndynges frome my lorde I sende you my lordes letter and an letter frome Syr Wylliam directyd to yow and I send yow the copy of my lords byll that he made me closyd yn thys and hystyr day the inbaseturs of Frawns1 wher ressavyd in to London and thys day I depart into Essex Whettyn in haste at London the sekunde day of Aprell.
+the term haste is referenced 1 time(s)
+the names of months appear 2 time(s), with 2 different month(s) mentioned
+The dates mentioned are the xxvij day of Marche, the sekunde day of Aprell., 
+Recieve statement: that I hawhe resavyd a letter from yow whryt at Callys the xxvij day of Marche
+
+79
+-----
+Letter sent in the year Mliiijciiijxxij
+Addressed: Unto George Cely merchant of the stapull at Calles thys letter be delyverd.
+Wreten at London the ij day of Aprell.
+the term haste is referenced 0 time(s)
+the names of months appear 3 time(s), with 2 different month(s) mentioned
+The dates mentioned are the xxviij day of Marche, the xxvj day of Marche, the ij day of Aprell., 
+Recieve statement: that I have resseyved a letter from you wreten at Calles the xxviij day of Marche
+understand appears 6 times in the following contexts: ['letter y have well understonde that ye have sowlld', 'and so Syr I understonde ther remayng behynd wheche', 'hartley also Syr I understond that y schall leysse', 'mo also syr I understond that a lytell befor', 'Also Syr ye schall understond that my mayesterys yowre', 'Also Syr ye schall understond that all the hooll']
+
+80
+-----
+Letter sent in the year Mliiijciiijxxij
+Addressed: my riught whell belowyd brother George Cely merchand of the stapwll at Calleys so dd.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the viij day of Aprell., 
+Recieve statement: that I hawhe ressayvyd an letter frowme yew wherby I wnderstonde the dethe of my yowge lady of
+understand appears 3 times in the following contexts: ['frowme yew wherby I wnderstonde the dethe of my', 'and sawhe Flawndyrs I wndyrstone be a letter that', 'the xj day I wnderstond ze pwrpos to Bregys']
+
+81
+-----
+Letter sent in the year Mljjjjciijxxij
+Addressed: Unto George Cely marchant of the stapull at Calles thys letter be delyverde.
+Wreten at London the xiiij day of Aperell, &c.
+the term haste is referenced 0 time(s)
+the names of months appear 2 time(s), with 2 different month(s) mentioned
+The dates mentioned are the xxviij daye of Marsche, the xiiij day of Aperell,, 
+Recieve statement: that y have ressayved a letter from you wretten at Calles the xxviij daye of Marsche
+understand appears 4 times in the following contexts: ['plese you ye schall understonde that y have ressayved', 'letters that y well understonde that ye have sould', 'Rechard Cely ye schall understond that he ys at', 'hem also ye shall understond that my misterys yowre']
+
+82
+-----
+Letter sent in the year Mliiijclxxxij
+Addressed: To my right reverent & trysty frend Jorge Cely marchante of the staple be this letter delyveryd in Calles At Brygges or at Barow Mart.
+Wryttyn in hast.
+the term haste is referenced 1 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xviij day of Aprell, 
+
+83
+-----
+Letter sent in the year Mliiijclxxxij
+Wrytten in haste.
+the term haste is referenced 1 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xx day of Aprell, 
+
+84
+-----
+Letter sent in the year Mliiijciiijxxij
+Addressed: To my wurshyppffull master George Cely merchaunte of the stapell off Caleys he beyng at the martt at Bartowe be this delyverd.
+Wrytten at Calys the xxiij day of Apryll per yowre servaunte Wylliam Cely.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xxiij day of Apryll, 
+tidings appears 1 times in the following contexts: ['hym &c. Syr oder tydynges hawe we non here']
+understand appears 1 times in the following contexts: ['hit yowre masterschypp to understond that John Dalton and']
+
+85
+-----
+Letter sent in the year Mliiijciiijxxij
+Addressed: To my worshyppffull master George Cely merchaunt off the stapell off Calys being at the martte.
+Wrytten at Calys xxix day of Apryll.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are Calys xxix day of Apryll., 
+tidings appears 2 times in the following contexts: ['&c. Syr we have tydynges yn Calys that my', 'be Godd Syr oder tydynges hawe we non but']
+understand appears 1 times in the following contexts: ['hit yowre masterschypp to understonde ther ys bonde unto']
+
+86
+-----
+Letter sent in the year Mliiijciiijxxij
+Addressed: To my worshyppffull master Geroge Cely merchaunte off the stapell off Caleys he beyng at the martt Soo hit dd.
+Wrytten at Calys the v day of Maye.
+the term haste is referenced 0 time(s)
+the names of months appear 2 time(s), with 2 different month(s) mentioned
+The dates mentioned are the last day of Jule, the v day of Maye., 
+understand appears 1 times in the following contexts: ['hit yowre masterschypp to understond that master lefftenaunte hath']
+
+87
+-----
+Letter sent in the year Mliiijciiijxxij
+Addressed: To my worshyppffull master George Cely merchaunte off the stapell off Caleys he beynge at the Martt soo hitt dd.
+Wrytten at Calys the vij day of Maye.
+the term haste is referenced 0 time(s)
+the names of months appear 5 time(s), with 3 different month(s) mentioned
+The dates mentioned are the vj day of Maye, the vj day of Aprell, the xj day of Apryll, the last day of Jule, the vij day of Maye., 
+tidings appears 1 times in the following contexts: ['there &c. Syr oder tydynges hawe we none here']
+understand appears 1 times in the following contexts: ['whych. . . .well understond and as towchyng zowre.']
+
+88
+-----
+Letter sent in the year Mliiijciiijxxij
+Addressed: To worshyppffull master George Cely merchaunte of the stapell off Caleys he being att the martt soo it dd:
+Wrytten at Caleys the x day of Maye Per yowre servaunte Wylliam Cely.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the x day of Maye, 
+understand appears 1 times in the following contexts: ['hyt yowre masterschypp to understond that John Dalton and']
+
+89
+-----
+Letter sent in the year Mliiijciiijxxij
+Sent by Rychard Cely the younger
+Whryt at London the xiij day of May.
+the term haste is referenced 0 time(s)
+the names of months appear 3 time(s), with 2 different month(s) mentioned
+The dates mentioned are the xiiij day of Aprell, the xiij day of May., 
+Recieve statement: into Cottesowlde I ressayvyd a letter frome yow wryte at Calles the xiiij day of Aprell
+tidings appears 1 times in the following contexts: ['me partte of your tydyng I sent to yow']
+understand appears 2 times in the following contexts: ['abyd yowr cwmyng I wndyrstonde be your letter that', 'London that whe may wndyrstone what some he wyll']
+
+90
+-----
+Letter sent in the year Mliiijciiijxxij
+Sent by Rychard Cely the younger
+Addressed: A my riught whell belovyd brother George Cely merchand of the stapell beyng at Callez or at Bregys so dd.
+Whryttyn at London the xxiij day of May.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xxiij day of May., 
+Recieve statement: that I hawhe ressayved an letter frome yow whrytten at Barow the weche I do whell undyrston and
+understand appears 2 times in the following contexts: ['to whrytte ze may wndyrstone partte be my letter', 'befor thys. Syr I wndyrstonde as I ryd in']
+
+91
+-----
+Letter sent in the year Mliiijciiijxxij
+Sent by Rychard Cely the younger
+Addressed: A my riught Whell belovyd brother George Cely merchand of the stapell at Callez so dd:
+Whryt at London the xxiiij day of Juyn I pray Jhesu send yow safe hythyr and sone Robard Eryke whos schasyd wt Scottes betwheyn Callez and Dover thy schapyd narow.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xxiiij day of Juyn, 
+Recieve statement: that I hawhe resavyd an letter frome yow be Robard Heryke wherby I wndyrstond that ze wyll send
+
+92
+-----
+Letter sent in the year Mliiijciiijxxij
+Addressed: To my worschyppffull master George Cely merchaunte of the Stappell off Caleys beyng at Breges sot it dd:
+Wrytten at Calles the iiij day of Julle.
+the term haste is referenced 0 time(s)
+the names of months appear 0 time(s), with 0 different month(s) mentioned
+The dates mentioned are the iiij day of Julle., 
+tidings appears 1 times in the following contexts: ['extract and as for tydynges here we have non']
+understand appears 3 times in the following contexts: ['hit yowre masterschypp to understond that I hawe receyved', 'have redd and well understonde and as for tydynges', 'plese hytt yow to understond that I hawe soled']
+
+93
+-----
+Letter sent in the year Mliiijciiijxxij
+Addressed: To my worshyppffull master Rechard or George Cely merchauntes of the stapell of Callez at London in Martt Lane so hit dd.
+Wrytten at Callex the last day of Jowll.
+the term haste is referenced 0 time(s)
+the names of months appear 0 time(s), with 0 different month(s) mentioned
+The dates mentioned are the last day of Jowll., 
+tidings appears 1 times in the following contexts: ['to extract of syche tydynges as we hawe here']
+understand appears 1 times in the following contexts: ['hyt yowre masterschyppis to understond of syche tydynges as']
+
+94
+-----
+Letter sent in the year Mliiijciiijxxij
+Addressed: To my worshyppffull master George Cely marchaunte of the Stapell of Calles at London yn Martt Lane se hit dd:
+None
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the iij day of Auguste, 
+tidings appears 1 times in the following contexts: ['ther &c Syr oder tydynges hawe we non here']
+understand appears 1 times in the following contexts: ['hytt yowre masterschypp to understond that I hawe told']
+
+95
+-----
+Letter sent in the year Mliiijciiijxxij
+Addressed: To my worschyppffull master George Cely merchaunt of the Stappell off Calles at London in Mart Lane soo hit dd:
+Wrytton at Calles the xiij day of Auguste.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xiij day of Auguste., 
+understand appears 1 times in the following contexts: ['hytt yowre masterschypp to understond that thys day we']
+
+96
+-----
+Letter sent in the year Mliiijciiijxxij
+Addressed: To my worschyppffull masters Rechard & George Cely merchauntes of the stapell off Calles at London in Martt Lane soo hit dd:
+Wrytten at Calles the xiij day of Auguste.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xiij day of Auguste., 
+tidings appears 1 times in the following contexts: ['&c Syr as for tydynges we hawe non here']
+understand appears 6 times in the following contexts: ['hit yowre masterschyppys to understond that thys day I', '&c. Item Syrs I understond be the sayd letter', 'hyt yowre masterschyppys to understond that master leffetenaunt and', 'zerys wagys and I understond they wull be payd', 'le styc Syr I understond the goode that comys', 'plese hytt yow to understond that I am nott']
+
+97
+-----
+Letter sent in the year Mliiijciiijxxij
+Addressed: To my worshyppffull masters Rechard and George Cely merchauntes of the stappell off Callez at London yn Martte Lane see hit dd.
+Wrytten at Calles the xvj day of August.
+the term haste is referenced 0 time(s)
+the names of months appear 2 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xvj day of Auguste, the xvj day of August., 
+tidings appears 1 times in the following contexts: ['Godd &c. Syrs oder tydynges hawe we non here']
+understand appears 1 times in the following contexts: ['upon the scottes2 I understond they come but slowly']
+
+98
+-----
+Letter sent in the year Mliiijciiijxxij
+Addressed: To my worshyppfull masters Rechard and George Cely merchauntys of stapell of Callez at London in Martt Lane be hit dd:
+Wrytten at Callez the xx day of August.
+the term haste is referenced 0 time(s)
+the names of months appear 7 time(s), with 5 different month(s) mentioned
+The dates mentioned are the xx day of Auguste, the vj day of Apryll, the vij day of October, the xx day of August., 
+understand appears 1 times in the following contexts: ['hit yowre masterschyppys to understond that on the xx']
+
+99
+-----
+Letter sent in the year Mliiijciiijxxij
+Addressed: To my worschyppffull masters Rychard and George Cely merchantes of the stapell off Calles at London in Mortt Lane be thys dd:
+Wrytten at Calles the xxiij day of Auguste per yowre servaunte Wylliam Cely.
+the term haste is referenced 0 time(s)
+the names of months appear 2 time(s), with 2 different month(s) mentioned
+The dates mentioned are the xxiij day of Auguste, 
+understand appears 1 times in the following contexts: ['into Selond1 but I understond the frensche men lyeth']
+
+100
+-----
+Letter sent in the year Mliiijciiijxxij
+Addressed: To my worschyppfull masters Rechard and George Cely merchauntes [of] the stappell of Callez at London in Martt Lane be this dd:
+Wrytten at Calles the xxix day of Auguste.
+the term haste is referenced 0 time(s)
+the names of months appear 4 time(s), with 3 different month(s) mentioned
+The dates mentioned are the xxviij day of Auguste, the xix day of October, the xx day of Feverell, the xxix day of Auguste., 
+understand appears 1 times in the following contexts: ['hytt yowre masterschyppys to understond that master leffetenaunt and']
+
+101
+-----
+Addressed: To my worschyppfull master George Cely merchaunte off the stapell off Callez at London in Martte Lane se hit dd:
+Wrytten at Callez the xxix day of Auguste.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xxix day of Auguste., 
+
+102
+-----
+Letter sent in the year Mliiijciiijxxij
+Addressed: To my worshyppffull masters Rechard & George Cely merchauntes of the stapell aff Callez at London yn Martt Lane se hit dd:
+Wrytten at Calles the iij day of September.
+the term haste is referenced 0 time(s)
+the names of months appear 3 time(s), with 3 different month(s) mentioned
+The dates mentioned are the xx day of Feverell, the xx day of October, the iij day of September., 
+understand appears 3 times in the following contexts: ['hawe redd and well understond and I schall do', 'hytt yowre masterschypp to understond that here ys an', 'hytt yowre masterschyppys to understond that I hawe born']
+
+103
+-----
+Letter sent in the year Mliiijciiijij
+Addressed: To my worschyppffull masters Rechard Cely & George Cely merchauntes of the stapell at Callez at London in Mart Lane see hit dd:
+Wrytten at Callez the viij day of September.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the viij day of September., 
+tidings appears 1 times in the following contexts: ['hawke &c Syr oder tydynges hawe we non here']
+
+104
+-----
+Sent by Mliiijciiijxxij
+Addressed: To my worchyppffull masters Rechard Cely and George Cely merchauntes of the stapell at Callez at London in Martte Lane do hit dd.
+Wrytten at Callys the xij day of September.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xij day of September., 
+tidings appears 3 times in the following contexts: ['extract that we have tydynges hew that the Frensch', 'Lewke1 and we have tydynges of how nowe men', 'extract that we have tydynges here that the town']
+understand appears 3 times in the following contexts: ['hyt yowre masterschipp to understond that yowre felles be', 'hit yower masterschyppys to understond that we have tydynges', 'hyt yowre masterschyppys to understond that we have tydynges']
+
+105
+-----
+Addressed: Thys letter be delyvyrt to Rychard Cely in London in Marte Lane.
+Wrettyn at Norchelacche1 the xx daye of Septembyr.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xx daye of Septembyr., 
+
+106
+-----
+Letter sent in the year Mliiijciiijxxij
+Sent by Rychard Cely the younger
+Addressed: A my whell belovyd brother George Cely merchand of the stapell at Calleys or the martte be thys dd:
+Wryt at London the xxvj day of Septemby.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xxvj day of Septemby., 
+
+107
+-----
+Letter sent in the year Mliiijciiijxxij
+Addressed: To my worschyppfull master George Cely merchaunte of the stapell at Callez he beyng at the martte see hit dd:
+Wrytten at Callez the last day of September.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the last day of September., 
+understand appears 1 times in the following contexts: ['hit yowre masterschypp to understond that Joysse and yowre']
+
+108
+-----
+Letter sent in the year Mliiijxxij1
+Sent by Rychard Cely the younger
+Addressed: Unto my brother George Cely merchand of the stapell at Calles or the martte so dd.
+Whryt at London the iijde day of Octobur.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the iijde day of Octobur., 
+
+109
+-----
+Letter sent in the year Mliiijciiijxxij
+Addressed: To my worshyppffull master George Cely merchaunte of the stappell at Callys at the martte be thys delyverd.
+Wrytten at Callez the vj day of October.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the vj day of October., 
+understand appears 3 times in the following contexts: ['hytt yowre masterschypp to understond that John Tate whych', 'nott comon yett I understond be men that come', 'plese hit yow to understond that my lordd chamberleyn1']
+
+110
+-----
+Letter sent in the year Mliiijciiijxxij
+Sent by Rychard Cely the younger
+Addressed: Unto my riught whell belovyd brother George Cely merchand of the stapell at Calleys or Bregys so dd:
+Wryt at London xvij day of Octobur.
+the term haste is referenced 0 time(s)
+the names of months appear 2 time(s), with 1 different month(s) mentioned
+The dates mentioned are the fyrste day of Octobur, London xvij day of Octobur., 
+Recieve statement: thys day I resavyd
+understand appears 2 times in the following contexts: ['qweche I do well wnderstond and am sory that', 'sclow payars &c. I wndyrstonde be Robard Eryke that']
+
+111
+-----
+Letter sent in the year Mliiijciiijxxij
+Addressed: To my worshyppfull master George Cely merchaunte of the stapell at Callez at the marte be hit dd.
+Wrytten at Calles the xix day of October.
+the term haste is referenced 0 time(s)
+the names of months appear 2 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xviij day of October, the xix day of October., 
+understand appears 2 times in the following contexts: ['hytt yowre masterschypp to understond that the xviij day', 'the whych I well understond and accordyng to youre']
+
+112
+-----
+Letter sent in the year Ryght
+Addressed: To my ryght worschipfull Gorge Cele marchand of the stapull at Calles thys letter be delyverd.
+the term haste is referenced 2 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xvj day of November, 
+
+113
+-----
+Letter sent in the year Ryght
+Addressed: Unto George Cely merchant of the Stapull at Calles thys letter be delyverd.
+Wreten at Alverley1 the xix day of November.
+the term haste is referenced 0 time(s)
+the names of months appear 3 time(s), with 1 different month(s) mentioned
+The dates mentioned are the ix day of November, the xix day of November., 
+understand appears 4 times in the following contexts: ['have red and well understond that ye have ressayved', 'horsse the wyche y understond ye taked sor at', 'nobelys but ye schall understond watt caused me so', 'good fayth ye shall understond that I wrote not']
+
+114
+-----
+None
+the term haste is referenced 0 time(s)
+the names of months appear 0 time(s), with 0 different month(s) mentioned
+
+115
+-----
+Letter sent in the year Mliiijciiijxxiij
+Addressed: To my worshyppffull masters Rechard and George Cely merchauntes ofteh Stappell at Callez at London in Martt Lane soo hit dd.
+Wrytten at Callez the v day of December.
+the term haste is referenced 0 time(s)
+the names of months appear 2 time(s), with 1 different month(s) mentioned
+The dates mentioned are the ij day of December, the v day of December., 
+understand appears 6 times in the following contexts: ['hytt yowre masterschyppts to understond that I sent unto', 'masterschypp the whych I understond be my goddfader Maryons', 'hytt yowre masterschyppys to understonde that Gyessebryght wan Wynsbarge', 'plese hyt yow to understond that the alowaunce ys', 'plese ytt yow to understond that Boston flete ys', 'plese hytt yow to understond that here ys a']
+
+116
+-----
+Letter sent in the year Mliiijciiijxxiij
+Addressed: To my worschyppffull masters Rechard and George Cely merchauntes of the Stapull at Callez at London in Martt Lane soo hit dd.
+Wrytten at Callez the x day of Fevere per yowre servaunt Wylliam Cely.
+the term haste is referenced 0 time(s)
+the names of months appear 0 time(s), with 0 different month(s) mentioned
+The dates mentioned are the x day of Fevere, 
+understand appears 3 times in the following contexts: ['hytt yowre masterschyppys to understond that Wyllykyn John Delowpys', 'hytt yowre masterschyppys to understond that her ys come', 'plese hytt yow to understond that the Councell of']
+
+117
+-----
+Letter sent in the year Mliiijciiijxxiij
+Addressed: To my worschyppffull masters Rechard and George Cely merchauntes of the stappell at Callez at London in Martt Lane soo hitt dd.
+Wrytten at Callez the xxiiij day of Feverell.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xxiiij day of Feverell., 
+understand appears 3 times in the following contexts: ['hytt yowre masterschyppys to understond that I hawe sold', 'hytt yowre masterschyppys to understond that Gyesbryght van Wynsbarge', 'hytt yowre masterschyppys to understond that ther ys an']
+
+118
+-----
+Letter sent in the year Mliiijciiijxxiij
+Addressed: To my worschyppffull masters Rechard and George Cely marchauntes of the Stapell at Callez at London in Martt Lane soo hitt dd.
+Wrytten at Callez the xxix day of Fevere.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the vij day of Fevere, the xxv day of Fevere, the xxix day of Fevere., the xxviij day of Fevere, the xx day of August, the xx day of Fevere, 
+understand appears 4 times in the following contexts: ['hytt yowre masterschyppys to understond that I have receyved', 'the tenor wherof I understond that Peter Bayle hath', 'hyt yowre masterschyppys to understond that the Dewk Maxymelyanys', 'plese hytt yow to understond that I hawe sold']
+
+119
+-----
+Letter sent in the year Mliiijciiijxxiij
+Addressed: To my worshyppffull masters Rechard and George Cely merchaunts of the stappell at Callez at London in Martt Lane Soo hit dd.
+Wrytten at Callez the xvij day of Marche.
+the term haste is referenced 0 time(s)
+the names of months appear 4 time(s), with 3 different month(s) mentioned
+The dates mentioned are the vj day of Apryll, the last day of Apryll, the xvij day of Marche., 
+understand appears 3 times in the following contexts: ['ytt yowre masterschyppys to understond that I sent unto', 'tell yow Item Syr understond that schyppyng ys begon', 'plese hytt yow to understond that Roger Wyestan of']
+
+120
+-----
+Letter sent in the year Mliiijciiijxxiij
+Addressed: To my worschyppffull masters Rechard and George Cely merchauntes of the stappull at Callez at London in Martt Lane soo hytt dd:
+Wrytten at Callez on owre Lady Day Anuncyon per yowre servaunte Wylliam Cely.
+the term haste is referenced 0 time(s)
+the names of months appear 4 time(s), with 3 different month(s) mentioned
+The dates mentioned are the x day of Junn, the xxiiij day of Jowll, the xxiiij day of Marche, the xxiij day of September, 
+understand appears 2 times in the following contexts: ['plese yowre masterschyppys to understond that I hawe sold', 'hytt yowre masterschyppys to understond that thys day owre']
+
+121
+-----
+Letter sent in the year Mliiijciiijxxiiij
+Addressed: To my worschyppffull masters Rechard and George Cely merchauntes of the stappull at Callez at London yn Martt Lane soo hitt dd.
+Wrytten at Callez the xxvij day of Marche.
+the term haste is referenced 0 time(s)
+the names of months appear 4 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xj day of March, . . day of Marche, the xxvj day of Marche, the xxvij day of Marche., 
+understand appears 3 times in the following contexts: ['the tenour wherof I understond that yowre m[aster]schypis hathe', '&c. Item Syr I understond [be] yowre sayd letter', 'hytt yowre masterschyppys to understond that I wrate yow']
+
+122
+-----
+Letter sent in the year Mliiijciiijxxiiij
+Sent by ﻿
+Addressed: To my worshyppffull masters Rechard and George Cely merchauntes of the Stappull at Callz at London in Martt Lane soo hit dd:
+Wrytten at Callez le x day of Aprell &c.
+the term haste is referenced 0 time(s)
+the names of months appear 6 time(s), with 3 different month(s) mentioned
+The dates mentioned are the second day of Marche, the ij day of Aprell, the x day of Aprell, le x day of Aprell, the iiij day of Aprell, 
+understand appears 2 times in the following contexts: ['hytt yowre masterschyppys to understond that I hawe sold', 'hawe redd and well understond and acordyng to yowre']
+
+123
+-----
+Letter sent in the year Mliiijciiijxxiiij
+Addressed: To my worshypffull masters R George Cely merchaunt of the stappell at Callez at London in Martt Lane soo hytt dd.
+Wrytten at Callez the xiiij day of Aprell.
+the term haste is referenced 0 time(s)
+the names of months appear 3 time(s), with 1 different month(s) mentioned
+The dates mentioned are the x day of Aprell, the xiiij day of Aprell, the xiiij day of Aprell., 
+understand appears 2 times in the following contexts: ['furder more Syr I understond be yowr wrytyng that', 'as yett but I understond ther schall come from']
+
+124
+-----
+Letter sent in the year Mliiijciiijxxiiij
+Addressed: To my worshyppful masters Rechard and George Cely merchauntes of the stappell at Callez at London in Martt Lane soo hytt dd:
+Wrytten at Callez the xxviij day of Aprell per yowre servaunte Wylliam Cely.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xxviij day of Aprell, 
+understand appears 3 times in the following contexts: ['hytt yowre masterschyppes to understond that I sent unto', 'plese hytt yow to understond that Wyllykyn John Delowpys', 'plese hytt yow to understond that old Henley ys']
+
+125
+-----
+Letter sent in the year 1486
+Addressed: To the worshippful George Cely merchaunt of the staple dwellyng in Marke Lane so it dd.
+Writ at Calles the xij day of Marche.
+the term haste is referenced 1 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xij day of Marche., 
+understand appears 1 times in the following contexts: ['plese it ye to understond that Will Cely told']
+
+126
+-----
+Sent by Rychard Cely the younger
+None
+the term haste is referenced 0 time(s)
+the names of months appear 0 time(s), with 0 different month(s) mentioned
+understand appears 1 times in the following contexts: ['hytt wylbe saffe I wndyrstonde be Adlynton at Mydwyntter']
+
+127
+-----
+Sent by Rychard Cely the younger Ruight welbelovyd brother
+Addressed: Unto my brother George Cely at London in Martte Lane.
+None
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the last day of August, 
+Recieve statement: Syr I hawe ressayvyd a letter be Adlynton he brynges you the same I wndyrstond hyt ryught welle
+understand appears 1 times in the following contexts: ['into Essex for I wndyrstonde thay dy sor in']
+
+128
+-----
+Letter sent in the year Mliiijciiijxxvij
+Addressed: To my ryght worschyppfull mastyrs Richard and George Cely merchauntes of the stappel of Callez at London yn Martt Lane so ytt dd
+Wrytten at Callez the xij jor de September.
+the term haste is referenced 0 time(s)
+the names of months appear 2 time(s), with 2 different month(s) mentioned
+The dates mentioned are the vj day of Apryll, 
+understand appears 3 times in the following contexts: ['hytt yowre masterschyppes to understond that I hawe receyved', 'hyt yowre masterschyppys to understond that I hawe sold', 'and therfor I muste understond how many be of']
+
+129
+-----
+Letter sent in the year MliiijCiiijxxvij
+Addressed: To my ryght worschyppful master George Cely merchaunt of the stappell of Callez at London yn Martt Lane soo ytt dd:
+Wrytten at Callez the xviij jor de September.
+the term haste is referenced 0 time(s)
+the names of months appear 2 time(s), with 1 different month(s) mentioned
+The dates mentioned are the fyrst day of September, 
+understand appears 3 times in the following contexts: ['hytt yowre masterschyppys to understond that I hawe receyved', 'the tenour ther I understond yowre masterschyppes hath tak', '&c. Item Syr I understond be yowr sayd letter']
+
+130
+-----
+Letter sent in the year Mliiijciiijxxvij
+Addressed: To my worshyppfull mastyrs Rechard & George Cely merchauntes of the Stappell of Callez at London in Martt Lane So itt dd:
+Wrytten at Bruges xxixth day of October.
+the term haste is referenced 1 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are Bruges xxixth day of October., 
+understand appears 2 times in the following contexts: ['hytt yowr masterschyppys to understond that the world ys', 'grett rombur but wee understond as many as hath']
+
+131
+-----
+Letter sent in the year Mliiijciiijxxvij
+Addressed: To my ryght worschyppffull mastyrs Richard and George Cely merchauntes of the Stappell of Callez at London yn Mart Lane.
+Wrytten at Callez the xix day of November.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xix day of November., 
+understand appears 2 times in the following contexts: ['hytt yowre masterschyppis to understond that I am comon', 'unto yowr mesterschyppis to understond wheder there schall be']
+
+132
+-----
+Letter sent in the year Mliiijciiijxxvij
+Addressed: To my right worschyppfull mastyrs Rechard and George Cely merchauntes of the Stappell of Callez at London in Martt Lane do ytt dd:
+Wrytten at Callez the xxij day of Janevere.
+the term haste is referenced 1 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xxij day of Janevere., 
+understand appears 1 times in the following contexts: ['hytt yowre mastyrschyppys to understond that I sent unto']
+
+133
+-----
+Sent by JhesuMliiijciiijxxvij
+Addressed: To my ryght worschyppfull mastyrs Rechard & George Cely merchauntes of the Stappell of Callez at London yn Martt Lane so ytt dd.
+Wrytten at Callez the xix day of Fevere.
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the xviij day of Jenyvere, the x day of Fevere, the vj day of Apryll, the xix day of Fevere., 
+understand appears 2 times in the following contexts: ['hytt yowre mastyrschyppes to understond that I hawe receyved', 'whych I hawe well understond and as tochyng makyng']
+
+134
+-----
+Letter sent in the year Mliiijciiijxxvij
+Addressed: To my ryght worschyppfull mastyr George Cely merchaunte of the Stappell of Callez at London yn Martt Lane soo ytt dd:
+Wrytten at Callez the xij day of Marche.
+the term haste is referenced 0 time(s)
+the names of months appear 2 time(s), with 1 different month(s) mentioned
+The dates mentioned are the ijth day of Marche, the xij day of Marche., 
+tidings appears 2 times in the following contexts: ['the copy schorttly and tydynges how ze schall spede', 'matter. Syr as for tydynges owte of Flaunders they']
+understand appears 2 times in the following contexts: ['yowre good mastyrschypp to understond that I have receyved', 'whych I hawe well understond and as towhyng the']
+
+135
+-----
+Letter sent in the year F.1
+None
+the term haste is referenced 0 time(s)
+the names of months appear 0 time(s), with 0 different month(s) mentioned
+The dates mentioned are the viijt day of Fevverell, the iiijt day of Fevverell, 
+
+136
+-----
+Sent by On the cover: The Rekenyng of the Margett Cely F.1 The first viage of the Margaret of London was to Selond in the yere of our Lord God Mliiijciiijcv. The secunde to Caleis and the thrid to Burdews1 ut videt. Md to se the pursers accomptes of the seide viages.G. Cely. F.2 Md that heyr after aperythe the reckenyng of howr costes doyn be me Rychard Cely, George Cely & Wylliam Maryon as well for ryddyng, byeng of aparrell wt awll odyr costes as the byeng of a schype latt cawllyd the Margett of Penermarcke2 bohutt John Burdeycke marrener of Penermarcke in Bretten as be passeltz aperrythe mor playnely
+None
+the term haste is referenced 0 time(s)
+the names of months appear 11 time(s), with 4 different month(s) mentioned
+The dates mentioned are the iiij day of Marche, the laste day of May, the xvj day of Jun, the xx day of Juen, the xxj day of Juen, the xxij day of Juen, the xxiiij day of Juen, the xxvj day of Juen, the xxvij day of Juen, the xxix day of Juen, the ij day of Julle, the v day of Julle, the xiiij day of Augost, the xvj day of Feverell, 
+
+137
+-----
+Sent by F.1 Md on Sum takyn1 Allssen to lay howght. . . . . . . .iiijs vjd fl. on Fryday at nyght. . . . . . . .ijd
+None
+the term haste is referenced 0 time(s)
+the names of months appear 0 time(s), with 0 different month(s) mentioned
+
+138
+-----
+Sent by Redy mony by me
+None
+the term haste is referenced 0 time(s)
+the names of months appear 0 time(s), with 0 different month(s) mentioned
+
+139
+-----
+the term haste is referenced 0 time(s)
+the names of months appear 0 time(s), with 0 different month(s) mentioned
+The dates mentioned are the xxiiij day of Augost, 
+
+143
+-----
+Sent by Robard Cely, Wylliam Maryon, John Lynd, Rychard Cely, George Cely, Charlys Vyllacys, Raffe Lymyngton and Rychard Awode, Wylliam Cely and Thomas. Summa. . . . . . . .x perswonys. Forst to Bollen whord. . . . . . . .viijd homewhard. . . . . . . .vijd
+None
+the term haste is referenced 0 time(s)
+the names of months appear 0 time(s), with 0 different month(s) mentioned
+
+144
+-----
+Letter sent in the year Mliiijlxxviij
+None
+the term haste is referenced 0 time(s)
+the names of months appear 0 time(s), with 0 different month(s) mentioned
+The dates mentioned are the iiijth day of Augost, 
+
+145
+-----
+Sent by Jhesus Maria. Assit principio Sancta Maria meo Here folowyng ar the parcels of receiptes and paymentes of me William Rogers to the use of my maister George Cely merchaunt of the Staple of Caleis in the monthes of March, April and May in the yere of out Lord God Mlcccciiijxxviij the thrid yere of the regne of King Henry the vijth that is to sey: First
+None
+the term haste is referenced 0 time(s)
+the names of months appear 4 time(s), with 3 different month(s) mentioned
+The dates mentioned are the xth day of May., 
+
+146
+-----
+Addressed: To my ryght hertly belovyd frend George Cely merchant being at Bruges be thys letter delyverd.
+None
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the ij day of May, 
+
+147
+-----
+Addressed: To the ryght wyrschypfull George Selye merchand dwelyng in Marke Lane in London.
+None
+the term haste is referenced 1 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the viij day of Maye., 
+Recieve statement: wnderstond that I resavyd a letter from you wherin ze wrotte for your mone I pray yow that
+understand appears 1 times in the following contexts: ['I can. Letyng you wnderstond that I resavyd a']
+
+148
+-----
+Sent by My ful trusty frende
+Addressed: To my ful good frende George Cely.
+None
+the term haste is referenced 0 time(s)
+the names of months appear 1 time(s), with 1 different month(s) mentioned
+The dates mentioned are the laste day of October., 
+understand appears 1 times in the following contexts: ['lovyng letter and well understande alle thynges therynne contened']
+
+149
+-----
+Sent by Brother Jorge
+None
+the term haste is referenced 0 time(s)
+the names of months appear 0 time(s), with 0 different month(s) mentioned
+tidings appears 1 times in the following contexts: ['loke yevery day for tydynges owte of Holand for']
+
+150
+-----
+Letter sent in the year lxxviij
+Wrette at London the xix day of November.
+the term haste is referenced 0 time(s)
+the names of months appear 3 time(s), with 3 different month(s) mentioned
+The dates mentioned are the xxx day of Octobar., the xix day of November., 
+Recieve statement: that I heve ressayvyd from yow a lettar wrette at Calles the xxx day of Octobar.
+
+
+Stats:
+Haste mentions: 33/147
+Tidings mentions: 22/147
+Understand mentions: 85/147
+Tidings and understand mentions within same letter: 15/147
+
+
+
